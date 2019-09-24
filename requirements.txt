@@ -1,0 +1,6 @@
+Flask>=1.0.2
+aiohttp>=3.5.4
+botframework-connector>=4.4.0.b1
+botbuilder-schema>=4.4.0.b1
+botbuilder-core>=4.4.0.b1
+botbuilder-ai>=4.5.0.b4
